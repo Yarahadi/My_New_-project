@@ -2,7 +2,7 @@ planning with AI
 <!-- This is the markdown template for the final project of the Building AI course, 
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
-# Project Title
+# I am in love
 Final project for the Building AI course
 ## Summary
 Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
